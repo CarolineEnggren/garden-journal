@@ -1,0 +1,8 @@
+POST http://localhost:8080/plants
+Content-Type: application/json
+
+{
+  "name": "Lavendel",
+  "variety": "Munstead",
+  "notes": "Planteras vid uteplatsen"
+}
